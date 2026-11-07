@@ -1,5 +1,7 @@
 # Chenglin Li
 
+[中文项目作品集 PDF](assets/Chenglin-Li-Portfolio-ZH.pdf) · Five illustrated project briefs, with source and demo links.
+
 ## Australia in Flight
 
 Explore which routes carry the most passengers, how domestic traffic changed over time, and how airport traffic compares with city population. The story includes 15 interactive maps and charts built with Vega-Lite. [Open the live visualisation](https://kkent777.github.io/fit2179-dv2/) · [Explore the data and source](https://github.com/Kkent777/fit2179-dv2)
