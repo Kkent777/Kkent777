@@ -4,9 +4,9 @@
 
 ## Australia in Flight
 
-Explore which routes carry the most passengers, how domestic traffic changed over time, and how airport traffic compares with city population. The story includes 15 interactive maps and charts built with Vega-Lite. [Open the live visualisation](https://kkent777.github.io/fit2179-dv2/) · [Explore the data and source](https://github.com/Kkent777/fit2179-dv2)
+Explore which routes carry the most passengers, how domestic traffic changed over time, and how airport traffic compares with city population. The story includes 15 interactive maps and charts built with Vega-Lite. [Open the live visualisation](https://kkent777.github.io/australia-in-flight/) · [Explore the data and source](https://github.com/Kkent777/australia-in-flight)
 
-[![Map of selected Australian domestic routes connecting Perth, Adelaide, Melbourne, Sydney, Hobart and Brisbane](assets/aviation-routes.png)](https://kkent777.github.io/fit2179-dv2/)
+[![Map of selected Australian domestic routes connecting Perth, Adelaide, Melbourne, Sydney, Hobart and Brisbane](assets/aviation-routes.png)](https://kkent777.github.io/australia-in-flight/)
 
 ## More projects
 
